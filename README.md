@@ -1,4 +1,4 @@
-# Amazon Web Information Service (AWIS) for Python
+# Alexa Web Information Service (AWIS) for Python
 
 Currently implemented two AWIS features:
 * UrlInfo
