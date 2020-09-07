@@ -1,4 +1,2 @@
-pandas
-grequests
 requests
 lxml

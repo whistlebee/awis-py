@@ -1,0 +1,5 @@
+__pycache__/
+awis_py.egg-info/
+.eggs/
+build/
+dist/
